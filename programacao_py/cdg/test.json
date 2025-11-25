@@ -1,0 +1,27 @@
+[
+ {
+  "nome": "Ana Silva",
+  "idade": 25,
+  "cidade": "Maceió"
+ },
+ {
+  "nome": "João Victor",
+  "idade": 22,
+  "cidade": "Arapiraca"
+ },
+ {
+  "nome": "Mariana Costa",
+  "idade": 30,
+  "cidade": "Recife"
+ },
+ {
+  "nome": "Pedro Santos",
+  "idade": 28,
+  "cidade": "Salvador"
+ },
+ {
+  "nome": "Joao victor",
+  "idade": 24,
+  "cidade": "Barra de são miguel"
+ }
+]
